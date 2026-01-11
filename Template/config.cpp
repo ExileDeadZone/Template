@@ -21,8 +21,8 @@ class CfgMods
     picture="Template/data/picture.paa";
     logoSmall="Template/data/logoSmall.paa";
     logo="Template/data/logo.paa";
-    logoOver="Template/data/logoOver.paa";
-    action="https://steamcommunity.com/sharedfiles/filedetails/?id=SteamFileId";
+    logoOver="Template/data/logo.paa";
+    action="https://steamcommunity.com/sharedfiles/filedetails/?id=0000000000";
     credits="SteamName";
     author="SteamName";
     authorID="SteamId";
