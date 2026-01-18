@@ -82,6 +82,9 @@
     "[json][jsonc]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "[enscript]": {
+      "editor.formatOnSave": false
+    },
     "vscodeTasksSidebar.defaultGrouped": true
   }
 }
