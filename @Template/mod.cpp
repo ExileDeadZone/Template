@@ -6,5 +6,5 @@ logoSmall="Template/data/logoSmall.paa";
 logo="Template/data/logo.paa";
 logoOver="Template/data/logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=0000000000";
-author="moldypenguins";
+author="SteamName";
 version="1.0";
