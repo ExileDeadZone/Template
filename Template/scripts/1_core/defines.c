@@ -4,10 +4,10 @@
  * @{
  */
 
-	/*!
-		\brief Define always present on dedicated servers
-		\note Isle of The Dead
-	*/
-	#define Template
+/*!
+  \brief Define always present on dedicated servers
+  \note Isle of The Dead
+*/
+#define Template
 
 /** @}*/

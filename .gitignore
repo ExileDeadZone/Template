@@ -1,2 +1,25 @@
+# logs
+**/logs
+**/*.log
+
+# node files
+**/node-modules
+**/.npm
+**/*.tsbuildinfo
+**/.eslintcache
+**/.stylelintcache
+
+# build directories
+**/build
+**/dist
+
+# dotenv files
+**/.env
+**/.env.*
+!**/.env.example
+
+# config file
+**/config.ts
+
 # private key files
-*.biprivatekey
+**/*.biprivatekey
