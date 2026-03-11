@@ -6,7 +6,7 @@
 
 /*!
   \brief Constants
-  \note Isle of The Dead
+  \note Exile: Dead Zone
 */
 const string STRING_MODNAME = "Template";
 
